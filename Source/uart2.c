@@ -5,7 +5,7 @@
 #include "uart2.h"
 #include "stdio.h"
 #include "loggerDefinitions.h"
-#include "overflowBuffer.h"
+//#include "overflowBuffer.h"
 
 struct CircBuffer outgoingUart;
 CBRef UART_transmitBuffer;

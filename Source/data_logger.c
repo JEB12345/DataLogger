@@ -1,7 +1,7 @@
-#include "p33FJ256GP710.h"
+#include "p33fxxxx.h"
 //#include "apDefinitions.h"
 //#include "MultiCircBuffer.h"
-#include "FSIO.h"
+#include "MDD File System/FSIO.h"
 #include "uart2.h"
 #include "stdio.h"
 #include "loggerDefinitions.h"
@@ -10,7 +10,7 @@
 
 #define BUFFERSIZE 512
 
-	#include "SD-SPI.h"
+	#include "MDD File System/SD-SPI.h"
 	
 	static char bufferflag;
 	static char need_buffer;
