@@ -6,6 +6,7 @@
 #include "stdio.h"
 #include "loggerDefinitions.h"
 #include "overflowBuffer.h"
+#include "FSIO_Supplement.h"
 
 
 #define BUFFERSIZE 512
