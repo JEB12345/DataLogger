@@ -1,10 +1,14 @@
-#ifndef _ID_CODE_H_
-#define _ID_CODE_H_
+/* 
+ * File:   ID_CODE.h
+ * Author: Jonathan
+ *
+ * Created on June 20, 2012
+ */
 
-#include "loggerDefinitions.h"
+#ifndef ID_CODE_H
+#define	ID_CODE_H
 
-unsigned int Get_ID_Code(void);
 
-char Increment_ID_Code(void);
 
-#endif
+#endif	/* ID_CODE_H */
+

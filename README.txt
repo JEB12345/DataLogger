@@ -4,3 +4,5 @@
 06/19/2012:
 Changed FScofig.h to #define INCREMENTTIMESTAMP instead of #define USEREALTIMECLOCK
 
+06/21/2012:
+Moved all origianl files to old_Source and old_Headers folders. Refactored code will be held in Source and Headers.
