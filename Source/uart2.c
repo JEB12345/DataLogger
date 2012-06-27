@@ -1,4 +1,4 @@
-#include "p33FJ256GP710.h"
+#include "p33Fxxxx.h"
 #include "circBuffer.h"
 //#include "apDefinitions.h"
 //#include "MultiCircBuffer.h"

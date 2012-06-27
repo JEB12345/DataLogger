@@ -12,3 +12,8 @@ Moved all original files to old_Source and old_Headers folders. Refactored code 
 06/25/2012:
 Moved original files files back to Source and Headers since refactoring will be done by someone else.
 -JEB
+
+06/27/2012:
+Using SLUGS-Logger HardwareProfile.h instead of the one provided by Microchip. Assuming the SLUGS-Logger header has correct hardware setup for dsPIC33F.
+-JEB
+
